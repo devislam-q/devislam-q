@@ -3,3 +3,7 @@
 ###
 
 <h1 align="center">Hi! 👋, I'm Islam 🥷🏻 <br /> A passionate Full-Stack developer from Egypt</h1>
+
+###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devislam-q&label=Profile%20views&color=0e75b6&style=flat" alt="devislam-q" /> </p>
