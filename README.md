@@ -40,6 +40,10 @@
 
 <div align="left">
   <img src="icons/html5.svg" width="32" height="32" alt="html5 logo" />
+  <img src="icons/css.svg" width="32" height="32" alt="css logo" />
 </div>
+
+
+
 
 
