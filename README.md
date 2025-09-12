@@ -54,6 +54,7 @@
   <img src="icons/createreactapp.svg" width="32" height="32" alt="createreactapp logo" />
   <img src="icons/reacthookform.svg" width="32" height="32" alt="reacthookform logo" />
   <img src="icons/reactquery.svg" width="32" height="32" alt="reactquery logo" />
+  <img src="icons/reactrouter.svg" width="32" height="32" alt="reactrouter logo" />
   <br/>
 </div>
 
