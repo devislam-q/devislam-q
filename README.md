@@ -46,6 +46,7 @@
   <img src="icons/javascript.svg" width="32" height="32" alt="javascript logo" />
   <img src="icons/typescript.svg" width="32" height="32" alt="typescript logo" />
   <img src="icons/tailwindcss.svg" width="32" height="32" alt="tailwindcss logo" />
+  <img src="icons/bootstrap.svg" width="32" height="32" alt="bootstrap logo" />
 </div>
 
 
