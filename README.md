@@ -76,6 +76,9 @@
 
 ###
 
+<div align="left">
+  <img src="icons/supabase.svg" width="32" height="32" alt="supabase logo" />
+</div>
 
 ###
 
