@@ -93,6 +93,7 @@
   <img src="icons/c.svg" width="32" height="32" alt="c logo" />
   <img src="icons/c++.svg" width="32" height="32" alt="c++ logo" />
   <img src="icons/javascript.svg" width="32" height="32" alt="javascript logo" />
+  <img src="icons/python.svg" width="32" height="32" alt="python logo" />
 </div>
 
 ###
