@@ -92,6 +92,7 @@
 <div align="left">
   <img src="icons/c.svg" width="32" height="32" alt="c logo" />
   <img src="icons/c++.svg" width="32" height="32" alt="c++ logo" />
+  <img src="icons/javascript.svg" width="32" height="32" alt="javascript logo" />
 </div>
 
 ###
